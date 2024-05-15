@@ -29,7 +29,7 @@ https://github.com/dhruvaop/Food-Recipe/assets/71749153/5a63e89a-c15a-472d-a2d3-
 Clone the git repo:
 
 ```
-https://github.com/dhruvaop/food-recipe-android-app.git
+https://github.com/dhruvaop/Food-Recipe.git
 ```
     
 ### Built With
@@ -38,7 +38,7 @@ https://github.com/dhruvaop/food-recipe-android-app.git
 * [Spoonacular Api](https://spoonacular.com/) - Used to Get Food Recipies 
 ## Feedback
 
-If you have any feedback, please reach out to me at <p align="left"> <a href="mailto:vishalmakhijani@pm.me" target="blank"><img src="https://img.shields.io/badge/vishalmakhijani@proton.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="VishalMakhijani" /></a> </p>
+If you have any feedback, please reach out to me at <p align="left"> <a href="mailto:dhruvabhattacharya130102@gmail.com" target="blank"><img src="https://img.shields.io/badge/vishalmakhijani@proton.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="VishalMakhijani" /></a> </p>
 
 
 
