@@ -38,7 +38,7 @@ https://github.com/dhruvaop/Food-Recipe.git
 * [Spoonacular Api](https://spoonacular.com/) - Used to Get Food Recipies 
 ## Feedback
 
-If you have any feedback, please reach out to me at <p align="left"> <a href="mailto:dhruvabhattacharya130102@gmail.com" target="blank"><img src="https://img.shields.io/badge/vishalmakhijani@proton.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="VishalMakhijani" /></a> </p>
+If you have any feedback, please reach out to me at <p align="left"> <a href="mailto:dhruvabhattacharya130102@gmail.com" target="blank"><img src="https://img.shields.io/badge/dhruvabhattacharya130102@gmail.com-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Dhruva Bhattacharya" /></a> </p>
 
 
 
