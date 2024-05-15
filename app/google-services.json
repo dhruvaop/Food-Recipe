@@ -10,13 +10,13 @@
       "client_info": {
         "mobilesdk_app_id": "1:622280178406:android:a9320126c0c26b15c4d927",
         "android_client_info": {
-          "package_name": "com.meetvishalkumar.myapplication"
+          "package_name": "<YOUR PACKAGE NAME>"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBPzObnL-uUqe_4WHoekKqZUYtIbE0sMLM"
+          "current_key": "<YOUR API KEY>"
         }
       ],
       "services": {
