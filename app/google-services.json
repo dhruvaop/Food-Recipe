@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "622280178406",
+    "firebase_url": "https://food-recipe-76b2f-default-rtdb.firebaseio.com",
+    "project_id": "food-recipe-76b2f",
+    "storage_bucket": "food-recipe-76b2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622280178406:android:a9320126c0c26b15c4d927",
+        "android_client_info": {
+          "package_name": "com.meetvishalkumar.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPzObnL-uUqe_4WHoekKqZUYtIbE0sMLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

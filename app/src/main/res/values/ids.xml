@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="signup_next_button" type="id" />
+    <item name="signup_slide_text" type="id" />
+    <item name="radio_group" type="id" />
+    <item name="age_picker" type="id" />
+</resources>
