@@ -7,6 +7,8 @@
 
 With the help of the spoonacular API, users of the Tasty Tips Android app can access recipes based on keywords and browse recipes.
 
+https://github.com/dhruvaop/Food-Recipe/assets/71749153/5a63e89a-c15a-472d-a2d3-be4e5480009d
+
 ## Features
 
 - At least 50 Recipes on the Homepage
@@ -27,7 +29,7 @@ With the help of the spoonacular API, users of the Tasty Tips Android app can ac
 Clone the git repo:
 
 ```
-https://github.com/vishalmakhiijani/food-recipe-android-app.git
+https://github.com/dhruvaop/food-recipe-android-app.git
 ```
     
 ### Built With
