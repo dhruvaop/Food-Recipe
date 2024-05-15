@@ -1,7 +1,8 @@
 
 # Tasty Tips
 
-<p align="center"><img src="https://github.com/dhruvaop/Food-recipe-android-app/blob/master/app/src/main/res/drawable/app_logo.png" heigth="250" width="250"/></p>
+
+<p align="center"><img src="https://github.com/dhruvaop/Food-Recipe/assets/71749153/197d3c1f-d1b9-4525-9254-c9eec59283b1" heigth="250" width="250"/></p>
 
 
 With the help of the spoonacular API, users of the Tasty Tips Android app can access recipes based on keywords and browse recipes.
