@@ -40,7 +40,26 @@ https://github.com/dhruvaop/Food-Recipe.git
 
 If you have any feedback, please reach out to me at <p align="left"> <a href="mailto:dhruvabhattacharya130102@gmail.com" target="blank"><img src="https://img.shields.io/badge/dhruvabhattacharya130102@gmail.com-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Dhruva Bhattacharya" /></a> </p>
 
+```
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622280178406:android:a9320126c0c26b15c4d927",
+        "android_client_info": {
+          "package_name": "<YOUR PACKAGE NAME>"
+        }
+      },     
 
+ "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "<YOUR API KEY>"
+        }
+      ],
+      "services": {
+```
+- Change your api key and package name on the Firebase console
+## https://console.firebase.google.com/u/0/project 
 
 
 
